@@ -1,11 +1,16 @@
-# Hi, I'm Punnawat 👋
+# Hi, I'm Punnawat 
 ### Aspiring Frontend Developer with Full-stack Project Experience
 
 I build application interfaces and connect them to backend
 services, with hands-on experience in authentication,
 content features, and databases.
+## 🛠️ Skills
 
-## 🌿 Featured Project — How Are You
+![Skills](https://skillicons.dev/icons?i=flutter,dart,js,react,firebase,supabase&theme=dark)
+
+Flutter · Dart · JavaScript · React Native · Firebase · Supabase
+
+##  Featured Project — How Are You
 
 A mental wellness application built with Flutter and Dart.
 
