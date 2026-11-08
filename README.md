@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Punnawat 👋
+### Aspiring Frontend Developer with Full-stack Project Experience
 
-<!--
-**punnawat0755-cell/punnawat0755-cell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build application interfaces and connect them to backend
+services, with hands-on experience in authentication,
+content features, and databases.
 
-Here are some ideas to get you started:
+## 🌿 Featured Project — How Are You
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+A mental wellness application built with Flutter and Dart.
+
+### My Contribution — Full-stack Development
+- Built login and account registration features.
+- Developed the post feature, from UI to backend integration.
+- Designed and implemented the database supporting these features.
+- Connected application screens to authentication and data services.
+
+**Project Stack:** Flutter · Dart · GetX · Firebase · Supabase
+
+[View Project](https://github.com/punnawat0755-cell/How_Are_You)
+
+## 🛠️ Other Project
+[TCG-Collab](https://github.com/punnawat0755-cell/TCG-Collab)
+— A React Native shopping app with product, cart,
+and checkout screens.
+
+## 💼 Opportunities
+Seeking a Frontend Developer role where I can contribute
+to user interfaces and grow through collaboration.
