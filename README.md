@@ -32,3 +32,7 @@ and checkout screens.
 ##  Opportunities
 Seeking a Frontend Developer role where I can contribute
 to user interfaces and grow through collaboration.
+
+##  Connect with Me
+
+[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/punnawat0755-cell)
