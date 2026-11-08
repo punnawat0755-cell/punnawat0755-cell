@@ -32,3 +32,10 @@ to user interfaces and grow through collaboration.
 ##  Connect with Me
 
 [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/punnawat0755-cell)
+<a href="https://www.facebook.com/oat.t.punnawat.2024">
+  <img src="https://cdn.simpleicons.org/facebook/1877F2" alt="Facebook" width="40" height="40" />
+</a>
+&nbsp;
+<a href="https://www.instagram.com/oat_punnawat/">
+  <img src="https://cdn.simpleicons.org/instagram/E4405F" alt="Instagram" width="40" height="40" />
+</a>
