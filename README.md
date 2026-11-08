@@ -1,10 +1,4 @@
 # Hi, I'm Punnawat 
-### Aspiring Frontend Developer with Full-stack Project Experience
-
-I build application interfaces and connect them to backend
-services, with hands-on experience in authentication,
-content features, and databases.
-##  Skills
 
 ![Skills](https://skillicons.dev/icons?i=flutter,dart,js,react,firebase,supabase&theme=dark)
 
