@@ -24,11 +24,11 @@ A mental wellness application built with Flutter and Dart.
 
 [View Project](https://github.com/punnawat0755-cell/How_Are_You)
 
-## 🛠️ Other Project
+##  Other Project
 [TCG-Collab](https://github.com/punnawat0755-cell/TCG-Collab)
 — A React Native shopping app with product, cart,
 and checkout screens.
 
-## 💼 Opportunities
+##  Opportunities
 Seeking a Frontend Developer role where I can contribute
 to user interfaces and grow through collaboration.
